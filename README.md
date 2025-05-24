@@ -7,53 +7,74 @@ Try the app live here:
 https://incomparable-swan-8e6afc.netlify.app/
 
 🧑‍💻 Features
-Upload animal skin images for AI-powered diagnosis
 
-Interactive chat interface for consultation
+-Upload animal skin images for AI-powered diagnosis
 
-Responsive and fast UI using React & Vite
+-Interactive chat interface for consultation
 
-Designed to be connected with backend AI models and APIs (backend not included in this repo)
+-Responsive and fast UI using React & Vite
+
+-Designed to be connected with backend AI models and APIs (backend not included in this repo)
 
 🔧 Technologies Used
-React (with TypeScript)
 
-Vite (build tool)
+-React (with TypeScript)
 
-Tailwind CSS (utility-first CSS)
+-Vite (build tool)
 
-Bolt AI (development tooling)
+-Tailwind CSS (utility-first CSS)
 
-ESLint & Prettier (code quality tools)
+-Bolt AI (development tooling)
+
+-ESLint & Prettier (code quality tools)
 
 ⚙️ Getting Started
-Clone the repository
-git clone https://github.com/Megesh07/DermaVet.git
-Install dependencies
-npm install
-Run the development server
-npm run dev
-Open your browser at http://localhost:5173
+
+-Clone the repository
+
+-git clone https://github.com/Megesh07/DermaVet.git
+
+-Install dependencies
+
+-npm install
+
+-Run the development server
+
+-npm run dev
+
+-Open your browser at http://localhost:5173
 
 🧪 Test Users for Login
+
 Use these test accounts to log in and explore the app:
 
 Clients
-Email	Password	Name
+
+Email	            Password	Name
+
 client1@test.com	client123	John Doe
+
 client2@test.com	client456	Jane Smith
+
 client3@test.com	client789	Mike Johnson
 
 Dermatologists
-Email	Password	Name
-derm1@test.com	derm123	Dr. Sarah Wilson
-derm2@test.com	derm456	Dr. James Brown
-derm3@test.com	derm789	Dr. Emily Davis
+
+Email	          Password	Name
+
+derm1@test.com	derm123	  Dr. Sarah Wilson
+
+derm2@test.com	derm456	  Dr. James Brown
+
+derm3@test.com	derm789	  Dr. Emily Davis
 
 📄 License
+
 MIT License
 
 👤 Author
+
 Megeshwara S
+
 GitHub: https://github.com/Megesh07
 
