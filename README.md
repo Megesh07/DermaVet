@@ -26,23 +26,6 @@ Bolt AI (development tooling)
 
 ESLint & Prettier (code quality tools)
 
-📂 Project Structure
-graphql
-Copy
-Edit
-Web/
-├── .bolt/               # Bolt AI config and prompts
-├── dist/                # Production build files
-├── node_modules/        # Dependencies
-├── src/                 # React source code
-├── uploads/             # Uploaded images storage (local)
-├── .gitignore
-├── package.json         # NPM dependencies and scripts
-├── tailwind.config.js   # Tailwind CSS config
-├── tsconfig.json        # TypeScript config
-├── vite.config.ts       # Vite config
-└── README.md
-
 ⚙️ Getting Started
 Clone the repository
 git clone https://github.com/Megesh07/DermaVet.git
